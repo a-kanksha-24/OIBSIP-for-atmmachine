@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AtmOperationImpl
+comment1.params=
+comment1.target=void\ viewBalance()
+comment2.params=withdrawAmount
+comment2.target=void\ withdrawAmount(double)
+comment3.params=depositAmount
+comment3.target=void\ depositAmount(double)
+comment4.params=
+comment4.target=void\ viewMiniStatement()
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ATM
+comment1.params=
+comment1.target=ATM()
+comment2.params=
+comment2.target=double\ getBalance()
+comment3.params=balance
+comment3.target=void\ setBalance(double)
+comment4.params=
+comment4.target=double\ getDepositAmount()
+comment5.params=depositAmount
+comment5.target=void\ setDepositAmount(double)
+comment6.params=
+comment6.target=double\ getWithdrawAmount()
+comment7.params=withdrawAmount
+comment7.target=void\ setWithdrawAmount(double)
+numComments=8
